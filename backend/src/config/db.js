@@ -1,0 +1,3 @@
+const dbString = "";
+
+export { dbString };
